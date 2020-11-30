@@ -1,0 +1,65 @@
+.blue
+{
+    color:#2d82b7;
+}
+.red
+{
+    color:#eb8a90;
+}
+.side
+{
+    width:225px !important;
+   height:100vh;
+ margin-left:10px;
+}
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.bold
+{
+    font-size:30px;
+    font-weight: bolder;
+ 
+}
+.fa
+{
+    color:#2d82b7;
+    font-size: 20px;
+    padding-right:5px;
+}
+.bold1
+{
+    font-size:25px;
+    font-weight: bolder;
+}
+.user
+{
+    color:black;
+}
+.gap
+{
+    padding-left: 105px;
+}
+.side-list
+{
+  margin-left:20px;
+}
+.split {
+    height: 50%;
+    width: 70%;
+    position: fixed;
+    z-index: 1;
+    
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  .left {
+    left: 0;
+  
+  }
+  
+  /* Control the right side */
+  .right {
+    right: 0;
+  }
